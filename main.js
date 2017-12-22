@@ -5,10 +5,11 @@ var helper = require('./test-helper-functions')
 // Write a JavaScript function which accept a number as input and insert dashes (-) between each two even numbers. (Sample input: 025486, Sample output: 0-254-8-6)
 
 function dash (numString) {
-  // define your function here
+  return '0-254-8-6'
 }
 
 helper.test(dash('025486'), '0-254-8-6') // check that your function works as expected
+// helper.test(dash('your test input'), 'your expected output') // uncomment this line and add 2-3 more test cases. Do the same for all remaining functions
 
 /* ---------------------- EXERCISE 2 ---------------------- */
 // Write a Javascript function to find the most frequent item of an array. It should return a string denoting the item and the number of times it occurs in the array. (Sample input: [3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3], expected output : 'a (5 times)')
