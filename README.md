@@ -4,8 +4,7 @@ Complete the following exercises to improve your understanding of arrays in java
 
 #### Instructions:
 * In `main.js`, define the functions listed below and test that it works by running it against `helper.test(yourFunction(), yourExpectedValue)`. To run the test, run `node main.js` in your terminal
-* As opposed to manually checking the output every time you run the function, we've written a helper method (`helper.test()`) to help you check whether your code produces the expected output.
-* For each function, add 1-2 more test cases to confirm that your function really works.
+
 
 #### Exercises:
 
