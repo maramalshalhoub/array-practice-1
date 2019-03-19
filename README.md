@@ -3,7 +3,7 @@
 Complete the following exercises to improve your understanding of arrays in javascript!
 
 #### Instructions:
-* In `main.js`, define the functions listed below and test that it works by running it against `helper.test(yourFunction(), yourExpectedValue)`. To run the test, run `node main.js` in your terminal
+* In `main.js`, define the functions listed below. To run the test, run `node main.js` in your terminal
 
 
 #### Exercises:
